@@ -1,4 +1,7 @@
 RENCANA CADANGAN
 - Membuat game
 - Belajar framework
+- Struktur Data
 - Belajar menghitung
+
+
