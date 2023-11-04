@@ -1,9 +1,9 @@
 RENCANA CADANGAN
 - Membuat game
 - Belajar framework
+- Struktur Data
 - PHP Frameworks
   * Laravel
 - Belajar menghitung
-- Angular
+- Pyton
 - React
-
