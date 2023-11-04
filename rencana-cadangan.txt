@@ -6,4 +6,4 @@ RENCANA CADANGAN
   * Laravel
 - Belajar menghitung
 - Pyton
-
+- React
